@@ -75,7 +75,7 @@ def chunks(lst, n):
         yield lst[i : i + n]
 
 
-for chunk in chunks(parsed_json, 2600):
+for chunk in chunks(parsed_json, 2700):
     writer(f"new_json", chunk)
 
 if failed:
