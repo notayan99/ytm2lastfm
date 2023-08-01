@@ -31,8 +31,7 @@ A simple script made by @anonymousx97 to add your yt music history to last fm.
     18) Click the green plus sign and enter your username and password. If, by any chance, you are logged out in the future, click your username under Available Users: then the blue button to sign back in.
     19) Under the File Parse Scrobbler tab, Parser will be set to CSV by default. Change this to JSON, then in your Imports folder, upload your first file using the ellipsis (...).
     20) Load the file by clicking Parse, then click Check All to tick all 2600 scrobbles.
-
-    21)On the bottom left next to Scrobble, Preview your scrobbles to review them. This is exactly how they will be imported, so it’s important to make any last-minute corrections. Once you’ve made sure everything is in proper order, hit Scrobble.
+    21) On the bottom left next to Scrobble, Preview your scrobbles to review them. This is exactly how they will be imported, so it’s important to make any last-minute corrections. Once you’ve made sure everything is in proper order, hit Scrobble.
 
 # If, for whatever reason, you receive the Error while scrobbling: Cached message, be sure that 1. You haven’t exceeded the daily scrobble limit (3000) or 2. That you’ve using disconnected and reconnected Scrubbler from your Last.fm Application settings if you’ve changed your Last.fm handle since using the app.
 
