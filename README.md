@@ -3,11 +3,7 @@
 
 A simple script made by @anonymousx97 to add your yt music history to last fm.
 
-
-
-
-![Pic.png real](https://github.com/notayan99/ytm2lastfm/blob/f33f51f3f1a6a5bb5348e4608c484062037e7811/real.png)
-
+<img src="https://github.com/notayan99/ytm2lastfm/blob/master/real.png" align="center" height="20" width="80" >
 
 # Steps to use:
 
